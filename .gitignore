@@ -12,6 +12,7 @@
 *.gcda
 *.gcno
 *.gcov
+*_fuzzer
 
 /example
 /example64
